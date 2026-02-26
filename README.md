@@ -1,9 +1,9 @@
 <p align="center">
-  <h1>Cross-Chain DeFi Forensics</h1>
+  <h1>🔗Cross-Chain DeFi Forensics</h1>
 </p>
 
 <p align="center">
-  <strong>Japneet</strong> • Defi Native tracing  
+  <strong>Japneet</strong> • Defi native tracing • Smart contract risk analysis • Manual Tracing • Real cases
 </p>
 
 <p align="center">
@@ -18,9 +18,16 @@
 </p>
 
 <p>
-    <strong>Previous Work:</strong>  
+    <strong>My Previous Work:</strong><br>
     <a href="https://github.com/JapneetOnchain/Manual---Tracing">
-      Single-Wallet Action Traces (Days 1–7) → Multiple annotated transactions
+      Single-Wallet Action Traces (Days 1–7) → 80+ annotated transactions
+    </a><br>
+    <a href="https://github.com/JapneetOnchain/blockchain-compliance-frameworks">
+      Theoretical Frameworks & Insights → DeFi mechanics, compliance risks & VARA-specific suggestions
+    </a>
+  </p>
+      
+      
 <hr>
 
 ## Sections
@@ -30,3 +37,8 @@
 - Theory Insights → DeFi primitives & compliance implications
 
 Open to opportunities in crypto compliance / on-chain monitoring  
+
+
+
+
+
