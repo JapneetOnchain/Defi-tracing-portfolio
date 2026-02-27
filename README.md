@@ -20,7 +20,7 @@
 <p>
     <strong>My Previous Work:</strong><br>
     <a href="https://github.com/JapneetOnchain/Manual---Tracing">
-      Single-Wallet Action Traces (Days 1–7) → 80+ annotated transactions
+      Single-Wallet Action Traces
     </a><br>
     <a href="https://github.com/JapneetOnchain/blockchain-compliance-frameworks">
       Theoretical Frameworks & Insights → DeFi mechanics, compliance risks & VARA-specific suggestions
