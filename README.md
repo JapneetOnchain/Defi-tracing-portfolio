@@ -36,7 +36,6 @@
 - Liquidity Events → Pool mechanics & manipulation risks  
 - Theory Insights → DeFi primitives & compliance implications
 
-Open to opportunities in crypto compliance / on-chain monitoring  
 
 
 
